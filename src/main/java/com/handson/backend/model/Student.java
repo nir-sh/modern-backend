@@ -1,4 +1,4 @@
-/*package com.handson.backend.model;
+package com.handson.backend.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -49,5 +49,3 @@ public class Student implements Serializable {
     @Length(max = 500)
     private String profilePicture;
 }
-8
- */
