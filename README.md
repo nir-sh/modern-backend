@@ -503,6 +503,8 @@ Jul201789#
 <br>
 docker tag backend  nivitzhaky/backend:002
 <br>
+docker push
+<br>
 docker-compose -f docker-compose-aws.yml up -d
 ### EC2
 ```
